@@ -5,7 +5,7 @@
 
 I am proud to present my very first game 🙌
 
-We hope you enjoy it!
+I hope you enjoy it!
 
 ### 🎮 [Play the game (Web)](https://plastic-dive.web.app/)
 
